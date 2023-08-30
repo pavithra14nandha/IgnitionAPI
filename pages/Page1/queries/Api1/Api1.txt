@@ -1,0 +1,11 @@
+{
+  "ProductionLine": "B2L5",
+  "SerialNos": [{{serialnoInput.text}}
+    ],
+  "RailPositionValidation": false,
+  "HasParentJobOrder": false,
+  "IsNova": false,
+  "ItemCode": "1600000602",
+  "CurrentOperatorId": "10011",
+  "CbsStreamName": "Ignition"
+}	

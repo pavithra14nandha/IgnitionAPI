@@ -1,0 +1,1 @@
+SELECT DefectCodes FROM inventory.Scraps
